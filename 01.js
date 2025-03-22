@@ -13,4 +13,3 @@ const jsonObject = JSON.parse('{"name":"kunalPanwar","age":20,"profession":"soft
 console.log(jsonObject)
 
 
-0
